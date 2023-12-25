@@ -1,3 +1,3 @@
 PS C:\Users\USER\Desktop\Git Folder\Santyrepo1> git add Test3.txt
 PS C:\Users\USER\Desktop\Git Folder\Santyrepo1> git commit -m "Santhosh commited for practicing"
-PS C:\Users\USER\Desktop\Git Folder\Santyrepo1> git push origin main
+PS C:\Users\USER\Desktop\Git Folder\Santyrepo1> git push origin maingit status
